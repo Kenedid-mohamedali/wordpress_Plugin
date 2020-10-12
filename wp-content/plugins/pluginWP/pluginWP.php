@@ -27,7 +27,7 @@ function say_hello(){
 }
 
 function gerershortcode(){   
-    echo('<p>Salut ! Moi je suis du shortcode, via le plugin WP aussi ;)</p>');
+    echo('<p>Salut ! Moi je suis du shortcode, via le plugin WP également ;)</p>');
 }
 
 function contenu_par_defaut(){  
